@@ -1,4 +1,4 @@
-# AI Waiter
+# ai-waiter
 
 AI Waiter is a conversational AI assistant that interacts with users to provide menu-related information. It uses **LLaMA 2 via Ollama** for natural responses while strictly referencing `menu.json` to avoid hallucinations.
 
@@ -18,7 +18,7 @@ AI Waiter is a conversational AI assistant that interacts with users to provide 
 ### Steps to Run
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-repo/ai-waiter.git
+   git clone https://github.com/Nityom/ai-waiter.git
    cd ai-waiter
    ```
 2. **Install Dependencies**
