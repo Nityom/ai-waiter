@@ -1,0 +1,98 @@
+[
+    {
+        "name": "EGGPLANT CURRY",
+        "description": "A rich and flavorful curry made with eggplant, onions, garlic, ginger, and a blend of spices.",
+        "ingredients": [
+            "eggplant",
+            "onions",
+            "garlic",
+            "ginger"
+        ],
+        "price": null,
+        "is_vegetarian": true
+    },
+    {
+        "name": "BAINGAN BHARTA",
+        "description": "A creamy and delicious baingan bhartha made with eggplant, onions, garlic, ginger, and a blend of spices.",
+        "ingredients": [
+            "eggplant",
+            "onions",
+            "garlic",
+            "ginger"
+        ],
+        "price": "$15",
+        "is_vegetarian": true
+    },
+    {
+        "name": "CHICKEN CURRY",
+        "description": "Tender chicken cooked with a blend of spices and vegetables.",
+        "ingredients": [
+            "chicken",
+            "vegetables"
+        ],
+        "price": "$5",
+        "is_vegetarian": false
+    },
+    {
+        "name": "AED LENTIL CURRY",
+        "description": "A hearty and flavorful lentil curry made with a blend of spices and vegetables.",
+        "ingredients": [
+            "lentils",
+            "vegetables"
+        ],
+        "price": "$5",
+        "is_vegetarian": true
+    },
+    {
+        "name": "SPICY PEANUT NOODLES",
+        "description": "A delicious and nutty noodle dish made with peanut sauce, garlic, chili, and fresh vegetables.",
+        "ingredients": [
+            "noodles",
+            "peanuts",
+            "garlic",
+            "chili",
+            "vegetables"
+        ],
+        "price": "$10",
+        "is_vegetarian": true
+    },
+    {
+        "name": "THAI PEANUT CHICKEN",
+        "description": "Grilled chicken topped with a creamy peanut sauce, served with steamed rice and vegetables.",
+        "ingredients": [
+            "chicken",
+            "peanuts",
+            "coconut milk",
+            "soy sauce",
+            "vegetables"
+        ],
+        "price": "$12",
+        "is_vegetarian": false
+    },
+    {
+        "name": "PEANUT BUTTER TOFU",
+        "description": "Crispy tofu tossed in a savory peanut sauce, served with jasmine rice and fresh herbs.",
+        "ingredients": [
+            "tofu",
+            "peanuts",
+            "soy sauce",
+            "garlic",
+            "ginger"
+        ],
+        "price": "$11",
+        "is_vegetarian": true
+    },
+    {
+        "name": "GHANAIAN PEANUT SOUP",
+        "description": "A rich and creamy West African peanut soup made with tomatoes, onions, and a hint of spice.",
+        "ingredients": [
+            "peanuts",
+            "tomatoes",
+            "onions",
+            "garlic",
+            "ginger"
+        ],
+        "price": "$8",
+        "is_vegetarian": true
+    }
+]

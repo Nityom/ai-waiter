@@ -1,0 +1,23 @@
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment-related files
+.env
+*.env
+
+# Ignore temporary files
+*.log
+tempCodeRunnerFile.py
+
+# Ignore model and index files
+menu_index.faiss
+
+# Ignore images
+*.png

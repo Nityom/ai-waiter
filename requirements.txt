@@ -1,0 +1,4 @@
+ollama
+pdfplumber
+pytesseract
+Pillow
